@@ -1,0 +1,10 @@
+/xo
+/bin/
+/demo/
+*.db
+*.db-shm
+*.db-wal
+*.db.lock
+.xo-*.json
+.xo-*.json.lock
+coverage.out
